@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" style="width:'100%', height:'390px';" />
+  <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" style="width:100%; max-height:240px; object-fit:contain;" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Md.Rokib Hasan</h1>
