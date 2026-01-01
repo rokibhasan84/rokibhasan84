@@ -27,7 +27,7 @@ I enjoy turning complex problems into simple, beautiful interfaces and continuou
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vs-code" />
 </p>
 
 ---
