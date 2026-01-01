@@ -27,7 +27,7 @@ I enjoy turning complex problems into simple, beautiful interfaces and continuou
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vs code,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
@@ -42,12 +42,12 @@ I enjoy turning complex problems into simple, beautiful interfaces and continuou
 ## 📌 Featured Projects
 ### 🌐 Compete Zone
 - A responsive contests platform with modern UI
-- **Tech:** React, Tailwind CSS
+- **Tech:** React, Tailwind CSS, MongoDB
 - 🔗 Live: https://competezone.netlify.app/
 
 ### 🛒 Habit-Tracker
-- Frontend UI for an e-commerce website
-- **Tech:** React, CSS
+- A responsive Daily Habit tracker website with modern UI
+- **Tech:** React, Tailwind CSS, MongoDB
 - 🔗 Live: https://daily-habit-tracking.netlify.app/
 
 ---
