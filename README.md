@@ -13,6 +13,15 @@
 
 ## 🚀 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git" />
+## 
+<p>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 
 
