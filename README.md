@@ -6,7 +6,7 @@
 <h3 align="center">Frontend Web Developer</h3>
 
 ---
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rokibhasan84" alt="GitHub Streak" /></a>
 ## 👨‍💻 About Me
 I am a passionate Frontend Web Developer with a strong focus on building responsive, user-friendly web applications.  
 I enjoy turning complex problems into simple, beautiful interfaces and continuously improving my skills with modern technologies.
