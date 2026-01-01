@@ -1,6 +1,3 @@
-![banner](https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png)
-
-
 
 <p align="center">
   <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="100%" />
