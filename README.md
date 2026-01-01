@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://ibb.co/Z6bSztyt" />
+  <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Rokib Hasan</h1>
+<h1 align="center">Hi 👋 I'm Md.Rokib Hasan</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 ## 👨‍💻 About Me
