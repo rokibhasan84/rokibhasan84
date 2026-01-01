@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="BANNER_LINK_HERE" />
+  <img src="https://ibb.co/Z6bSztyt" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Rokib Hasan</h1>
