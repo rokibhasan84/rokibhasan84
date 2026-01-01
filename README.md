@@ -1,3 +1,7 @@
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
+
+
 <p align="center">
   <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="100%" />
 </p>
