@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" height="500">
   <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="400" height="400" />
 </p>
 
