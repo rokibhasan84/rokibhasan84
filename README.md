@@ -14,8 +14,7 @@
 ## 🚀 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git" />
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rokibhasan84&show_icons=true" />
+
 
   
 <!--
