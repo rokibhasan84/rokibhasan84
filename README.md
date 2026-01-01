@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="https://i.ibb.co/3yPvmGtG/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rokib Hasan</h1>
@@ -34,24 +34,25 @@ I enjoy turning complex problems into simple, beautiful interfaces and continuou
 
 ## 🚀 Current Activities
 - 🔍 Exploring **Next.js & modern React patterns**
-- 🏗️ Building a **Tourism Website**
+- 🏗️ Building a **Contests Website**
 - 📚 Improving **JavaScript problem-solving skills**
 
 ---
 
 ## 📌 Featured Projects
-### 🌐 Tourism Website
-- A responsive tourism platform with modern UI
+### 🌐 Compete Zone
+- A responsive contests platform with modern UI
 - **Tech:** React, Tailwind CSS
-- 🔗 Live: https://your-live-link.com
+- 🔗 Live: https://competezone.netlify.app/
 
-### 🛒 E-commerce UI
+### 🛒 Habit-Tracker
 - Frontend UI for an e-commerce website
 - **Tech:** React, CSS
-- 🔗 Live: https://your-live-link.com
+- 🔗 Live: https://daily-habit-tracking.netlify.app/
 
 ---
 
+< !--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rokibhasan84&show_icons=true&theme=tokyonight" />
@@ -64,7 +65,7 @@ I enjoy turning complex problems into simple, beautiful interfaces and continuou
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokibhasan84&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ## 🤝 Connect With Me
