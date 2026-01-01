@@ -1,7 +1,22 @@
 
 <p align="center">
-  <img scr="https://www.canva.com/design/DAG9KWtgAVM/I8gKVEwUkcdatV7_D3RuUA/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0" alt="Github Bannar"/>
+  <img src="BANNER_LINK_HERE" />
 </p>
+
+<h1 align="center">Hi 👋 I'm Rokib Hasan</h1>
+<h3 align="center">Frontend Web Developer</h3>
+
+## 👨‍💻 About Me
+- Passionate frontend developer
+- Love building responsive web apps
+- Currently learning Next.js
+
+## 🚀 Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git" />
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=rokibhasan84&show_icons=true" />
+
   
 <!--
 **rokibhasan84/rokibhasan84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
